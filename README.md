@@ -26,12 +26,10 @@
     jupyter lab
     ```
   
-  
 ## Links
-### FEniCS general
-- [The FEniCS Tutorial](https://fenicsproject.org/tutorial/)
-- https://github.com/funsim/fenics-tutorial-notebook
-  
-### Links FEniCS for mechanics
-- https://comet-fenics.readthedocs.io/en/latest/index.html
-- abstraction layer for mechanics simulation in FEnICS https://shaddenlab.gitlab.io/fenicsmechanics/chapters/demos-all.html​
+
+- For general links about FEniCS see `00_intro_to_fenics.ipynb` in this repository.
+- [This website](http://comet-fenics.readthedocs.io/en/latest/index.html) discusses the solution of several mechanics 
+problems using FEniCS. 
+- [This repository](https://shaddenlab.gitlab.io/fenicsmechanics/index.html) provides an 
+abstraction layer for mechanics simulation in FEniCS.
