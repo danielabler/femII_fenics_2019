@@ -1,0 +1,4 @@
+*.pvd
+*.vtu
+*.idea
+*-checkpoint.ipynb
